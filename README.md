@@ -1,18 +1,18 @@
-# 📊 Student Performance Dashboard
+# Student Performance Dashboard
 
 **Course:** Information Visualization and Presentation
 **Final Grade:** 16/20
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on the design and development of interactive dashboards to analyze student performance and behavior patterns. The goal is to transform raw educational data into actionable insights for decision-making.
 
 The dataset used is available on Kaggle:
-👉 [https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data](https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data)
+[https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data](https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data)
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze student performance and behavioral factors
 * Identify patterns affecting academic results
@@ -21,9 +21,9 @@ The dataset used is available on Kaggle:
 
 ---
 
-## 👥 Personas & Use Cases
+## Personas & Use Cases
 
-### 🏛️ Minister of Education
+### Minister of Education
 
 The dashboard supports high-level decision-making by:
 
@@ -39,7 +39,7 @@ The dashboard supports high-level decision-making by:
 
 ---
 
-### 👨‍🏫 Teacher
+### Teacher
 
 The dashboard enables teachers to:
 
@@ -55,7 +55,7 @@ The dashboard enables teachers to:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Power BI** – Dashboard development and visualization
 * **PowerQuery** – Data cleaning and transformation
@@ -63,7 +63,7 @@ The dashboard enables teachers to:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * Social behavior (e.g., frequency of going out, alcohol consumption) shows a noticeable impact on student performance
 * Certain age groups demonstrate higher academic averages
@@ -71,7 +71,7 @@ The dashboard enables teachers to:
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 * Designing dashboards for different stakeholders
 * Translating data into actionable insights
